@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg,purple,blue,cyan,green,yellow,red,black );
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
